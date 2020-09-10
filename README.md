@@ -21,6 +21,7 @@
 - **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin)** by [Pablo Klaschka](https://github.com/pklaschka)  - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
 - **[Favicon Export](https://github.com/ashryanbeats/favicon-export-for-xd)** by [Ash Ryan Arnwine](https://github.com/ashryanbeats) - Export icons for your website.
 - **[XD to Flutter](https://github.com/AdobeXD/xd-to-flutter-plugin)** by Adobe - Generate assets from XD for use in an existing Flutter project.
+- **[User Profile plugin](https://github.com/janisrozenfelds/user-profile-plugin-adobe-xd)** by [Janis Rozenfelds](https://github.com/janisrozenfelds) - Enables designers to display beautiful generated avatars in your XD design prototype. [More information](https://janisrozenfelds.com/user-profile-plugin)
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
